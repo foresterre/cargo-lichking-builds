@@ -1,0 +1,1 @@
+builds for [https://github.com/Nemo157/cargo-lichking](cargo-lichking).
